@@ -1,7 +1,6 @@
 import pytest
-from src.exercise import main
+from src.exercise import sum,average
 
-def test_exercise(capsys):
-    main()
-    out, err = capsys.readouterr()
-    assert out == "\n", "Should read ''"
+def test_exercise():
+    assert sum(3,2,6,5) == 16
+    assert average(3,2,6,5) == 4

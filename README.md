@@ -8,7 +8,7 @@ Define the method in the following template:
 def sum(number1, number2, number3, number4):
     # you can copy your implementation of the method sum here
 
-def  average(number1, number2, number3, number4):
+def average(number1, number2, number3, number4):
     # write your code here
     # calculate the sum of the elements by calling the method sum
 
