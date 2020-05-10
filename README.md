@@ -1,4 +1,4 @@
-# Exercise 2-30-averaging
+# Exercise 2.30 Averaging
 
 Create a method called `average` that calculates the average of the numbers passed as parameters. The previously created method `sum` must be used inside this method!
 
